@@ -16,7 +16,7 @@ variable "common_tags" {
 }
 
 variable "zone_name" {
-  default = "joindevops.online"
+  default = "saidev.world"
 }
 
 variable "mongodb_record_name"{
