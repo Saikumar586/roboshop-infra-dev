@@ -8,7 +8,7 @@ variable "env" {
 
 variable "common_tags" {
   default = {
-    Project = "roboshop"
+    Project = "Roboshop"
     Component = "MongoDB"
     Environment = "DEV"
     Terraform = "true"
